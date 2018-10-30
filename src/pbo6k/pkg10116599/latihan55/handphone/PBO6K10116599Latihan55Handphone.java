@@ -16,6 +16,8 @@ public class PBO6K10116599Latihan55Handphone {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        Android a = new Android();
     }
-    
+
 }
